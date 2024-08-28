@@ -4,19 +4,19 @@
     "url": "https://a.nyase.ru",
     "icon": "https://icons.duckduckgo.com/ip3/a.nyase.ru.ico",
     "slug": "a-list",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 637,
-    "timeDay": 637,
-    "timeWeek": 637,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "65.81%",
+    "uptimeDay": "65.81%",
+    "uptimeWeek": "65.81%",
+    "uptimeMonth": "65.81%",
+    "uptimeYear": "65.81%",
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-08-28": 2
+      "2024-08-28": 253
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://c.nyase.ru",
     "icon": "https://icons.duckduckgo.com/ip3/c.nyase.ru.ico",
     "slug": "cloudreve",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "66.01%",
+    "uptimeDay": "66.01%",
+    "uptimeWeek": "66.01%",
+    "uptimeMonth": "66.01%",
+    "uptimeYear": "66.01%",
     "time": 670,
     "timeDay": 670,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-08-28": 0
+      "2024-08-28": 252
     }
   }
 ]
